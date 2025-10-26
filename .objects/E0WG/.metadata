@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Filă nouă",
+  "Type": "App",
+  "Id": "E0WGDIs710WusQlmOoC1ug",
+  "Reference": "uvo4emRK3EKPsOGRp30JNA/E0WGDIs710WusQlmOoC1ug",
+  "Created": "2025-10-25T20:17:14.556355Z",
+  "Updated": "2025-10-25T20:17:14.556355Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

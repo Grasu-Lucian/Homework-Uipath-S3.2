@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox Filă nouă",
+  "Type": "Screen",
+  "Id": "H5Wef4LFJ0GBh6W15hbiKA",
+  "Reference": "uvo4emRK3EKPsOGRp30JNA/H5Wef4LFJ0GBh6W15hbiKA",
+  "ParentRef": "uvo4emRK3EKPsOGRp30JNA/uWg5IrlFB0icl89eB5psAg",
+  "Created": "2025-10-25T20:17:14.6031162Z",
+  "Updated": "2025-10-25T20:17:14.6031162Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

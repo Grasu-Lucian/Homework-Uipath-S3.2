@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Miscrits(1)",
+  "Type": "Screen",
+  "Id": "m8K-1TLAHUKNVnhoCa9DWA",
+  "Reference": "uvo4emRK3EKPsOGRp30JNA/m8K-1TLAHUKNVnhoCa9DWA",
+  "ParentRef": "uvo4emRK3EKPsOGRp30JNA/T7eUgSrci0up6z16u5y6xw",
+  "Created": "2025-10-25T19:25:10.526423Z",
+  "Updated": "2025-10-25T19:25:10.526423Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

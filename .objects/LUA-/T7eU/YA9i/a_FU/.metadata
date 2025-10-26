@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Icon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "a_FUg7vWCU64Fo3hTZguDQ",
+  "Reference": "uvo4emRK3EKPsOGRp30JNA/a_FUg7vWCU64Fo3hTZguDQ",
+  "ParentRef": "uvo4emRK3EKPsOGRp30JNA/YA9iXkfieECe0F5GSxVuqA",
+  "Created": "2025-10-25T18:51:19.8624472Z",
+  "Updated": "2025-10-25T18:51:19.8624472Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
